@@ -1,6 +1,6 @@
-# kits
+# KITS AI Automated Trading
 
-privates repo. **kein code.** nur bilder und text, was kits macht.
+öffentliches repo. **kein code.** nur bilder und text, was kits macht.
 
 kits ist ein ki trading system. die ki beobachtet die charts, findet setups und kann handeln — **wenn du das willst.** du kannst sie auch nur als hilfe laufen lassen: sie zeigt, was sich formt, du entscheidest.
 
