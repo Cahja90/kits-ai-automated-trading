@@ -1,0 +1,7 @@
+#keine secrets, kein code
+*.env
+*.yaml
+*.yml
+!LICENSE.md
+node_modules/
+dist/
