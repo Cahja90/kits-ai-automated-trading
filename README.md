@@ -6,7 +6,7 @@ kits ist ein ki trading system. die ki beobachtet die charts, findet setups und 
 
 zwei gänge:
 
-- **hilfe** — ki an, trading aus. sie schaut zu, listet setups, schreibt warum. du nimmst oder lässt.
+- **hilfe** — ki an, trading aus. sie schaut zu, listet setups, schreibt warum. 
 - **automatisch** — trading an. sie darf vorschläge umsetzen, nach deinen grenzen (risiko, kill switch, bestätigen).
 
 ninja bleibt der chart. kits ist das cockpit daneben.
@@ -49,7 +49,7 @@ risiko kannst du selbst setzen oder **ki setzt** lassen.
 
 kein raten. die setups kommen aus statistik: range-break, edge-hold, 5m, 10m. pro instrument score, trefferquote, wo es schwach ist (z.b. mcl). die ki nutzt genau diese liste, wenn sie beobachtet — nicht irgendein gefühl.
 
-du kannst das als spielbuch lesen, ohne dass automatisch geordert wird.
+du kannst das als playbook lesen und erweitern.
 
 ### 5. trade dashboard — vorschläge, du sagst ja
 
@@ -59,13 +59,13 @@ zweites fenster, gleiche idee, klarer auf **approve**.
 
 die ki schreibt live, was sie sieht (z.b. gold über vwap, a+ long, 10m/5m/1m gleichgerichtet). darunter **trade ideas**: range break, trendlinie warten, ema. jeder vorschlag hat **approve**.
 
-so bleibt es hilfe: sie identifiziert, du lässt durch oder nicht.
+so bleibt es bei  hilfe: sie identifiziert, du kannst das setup dan handeln oder nicht.
 
 wer voll automatisch will: modus safety / balanced / aggressive, trailing, take-profit, kill switch. **arm trading** ist extra — ohne den knopf geht nichts live raus.
 
 ## kurz
 
-| du willst | so stellst du es |
+Setups nach von den Händlern , KI Handelt sie oder wartet bis eins aufkommt.
 |---|---|
 | nur gucken, setups sehen | ki an, trading aus |
 | vorschläge, du klickst ja | ki an, approve |
