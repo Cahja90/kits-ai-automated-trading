@@ -1,0 +1,18 @@
+# kits
+
+> kits (ki trading system) is a cursor/claude mcp cockpit for ninjatrader 8 futures. screenshots only, no source.
+
+kits mcp ninjatrader cursor claude ai trading mes mnq mcl mgc futures day-trading model-context-protocol kill-switch live-orders trade-desk journal strategies
+
+## screenshots
+
+- https://github.com/Cahja90/kits-ai-automated-trading/blob/main/bilder/kits-mcp-ninjatrader-connect.png
+- https://github.com/Cahja90/kits-ai-automated-trading/blob/main/bilder/kits-mcp-overview-session.png
+- https://github.com/Cahja90/kits-ai-automated-trading/blob/main/bilder/kits-mcp-trade-desk-live.png
+- https://github.com/Cahja90/kits-ai-automated-trading/blob/main/bilder/kits-mcp-strategies-playbook.png
+- https://github.com/Cahja90/kits-ai-automated-trading/blob/main/bilder/kits-mcp-journal-session.png
+
+## read
+
+- https://github.com/Cahja90/kits-ai-automated-trading/blob/main/AGENTS.md
+- https://github.com/Cahja90/kits-ai-automated-trading/blob/main/README.md

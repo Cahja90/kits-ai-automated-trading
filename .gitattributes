@@ -1,0 +1,6 @@
+#png/jpg immer binaer — sonst macht git/github crlf draus und die bilder sind kaputt
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
